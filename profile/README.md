@@ -3,6 +3,9 @@
 > [!NOTE]
 > This initiative started development in January 2026. The official website and initial releases are expected to launch in the coming months, with the **manifesto, objectives, and public development roadmap** scheduled for release before the end of the month.
 
+<img width="1855" height="548" alt="Texto" src="https://github.com/user-attachments/assets/776f8995-49e1-4c1a-a60e-a6927a608b0b" />
+
+
 **DARTS** (**D**rone **A**utonomous **R**esearch and **T**echnology for **S**warms) **Initiative** was founded to create an open-access ecosystem for the development of advanced technologies, specifically aimed at empowering drone fleets with **Swarm Intelligence**.
 
 ## The Mission
