@@ -1,25 +1,43 @@
-# 🧠 DARTS Initiative
+# DARTS Initiative
 
-> [!NOTE]
-> This initiative started development in January 2026. The official website and initial releases are expected to launch in the coming months, with the **manifesto, objectives, and public development roadmap** scheduled for release before the end of the month.
+**Drone Autonomous Research and Technology for Swarms**
 
-<img width="1855" height="548" alt="Texto" src="https://github.com/user-attachments/assets/776f8995-49e1-4c1a-a60e-a6927a608b0b" />
+DARTS is an open initiative focused on building AI that can truly reason, understand its environment, and construct internal models of the world, with a particular emphasis on physical environments and autonomous drone swarms.
 
+Visit us at [dartsinitiative.com](https://dartsinitiative.com)
 
-**DARTS** (**D**rone **A**utonomous **R**esearch and **T**echnology for **S**warms) **Initiative** was founded to create an open-access ecosystem for the development of advanced technologies, specifically aimed at empowering drone fleets with **Swarm Intelligence**.
+---
 
-## The Mission
-The project emerges at a critical time when swarm technology is highly fragmented, predominantly proprietary, and lacks tangible progress accessible to those outside of major corporate environments. The **DARTS Initiative** aims to bridge this gap by providing high-value resources to:
+## What is DARTS?
 
-* **Startups** facing significant barriers to entry in this specialized field.
-* **Hobbyists** in drone technology and AI looking to build home-based swarm projects.
-* **Researchers** worldwide seeking to push the boundaries of knowledge in autonomous swarms.
-* **Institutions and Organizations** dedicated to leveraging this technology to create social and economic value.
+DARTS is not a lab or a company. It is a purpose-driven initiative built on the belief that meaningful AI research can happen in the open, driven by people who contribute because they care.
 
-Historically, the aerospace industry has been characterized by closed-door knowledge sharing. The drone revolution has finally allowed individuals and small startups to enter the market, and **DARTS Initiative** exists to accelerate this momentum, ensuring that the next generation of breakthroughs remains democratized and accessible to all.
+It exists as a direct response to the concentration of AI research inside closed institutions. Everything produced here: ideas, experiments, progress, and failures, is shared openly to encourage collaboration across robotics, machine learning, simulation, control systems, and applied research.
 
-## Future Work
+---
 
-The project is currently in its very early stages. In the coming weeks, we will officially publish the **Manifesto** and **Core Objectives**, followed by a detailed **Development Roadmap** outlining our milestones for the upcoming months.
+## Research Pillars
 
-Stay tuned for these updates as we lay the foundation for a more accessible future in autonomous swarm flight.
+**World Models**
+Enabling AI to build and navigate internal representations of reality, supporting imagination, planning, and action beyond direct observation.
+
+**Causal Learning**
+Moving beyond correlation to understand why things happen, through exploration and active interaction with the world.
+
+**Multi-Agent AI**
+Developing the foundations for AI systems that communicate, coordinate, and reason collectively.
+
+---
+
+## Projects
+
+New open-source projects are on their way. First releases will be published soon.
+Follow our progress at [dartsinitiative.com](https://dartsinitiative.com).
+
+---
+
+## Contributing
+
+Contributions are welcome in any form: blog posts, open-source projects, experiments, or simply spreading the word.
+
+Reach out at [contact@dartsinitiative.com](mailto:contact@dartsinitiative.com)
