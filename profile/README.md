@@ -2,37 +2,39 @@
 
 **Drone Autonomous Research and Technology for Swarms**
 
-DARTS is an open initiative focused on building AI that can truly reason, understand its environment, and construct internal models of the world, with a particular emphasis on physical environments and autonomous drone swarms.
+DARTS is a personal initiative to explore and document the open development of the AI of the future. A place where projects, ideas, and findings are shared openly, with the goal of making this work accessible to anyone who wants to follow it, build on it, or contribute to it.
+
+It is not a lab. It is not a company. It is a purpose: to work on AI that genuinely understands its environment, builds models of it, and learns from exploration rather than passive consumption of data, and to do all of that in the open.
 
 Visit us at [dartsinitiative.com](https://dartsinitiative.com)
 
 ---
 
-## What is DARTS?
+## Why DARTS?
 
-DARTS is not a lab or a company. It is a purpose-driven initiative built on the belief that meaningful AI research can happen in the open, driven by people who contribute because they care.
+The most capable AI systems today come out of a handful of closed laboratories. The research is often published, but the models, the data, and the real engineering decisions behind them are not. DARTS exists as a response to that: not out of opposition, but out of the belief that meaningful AI research can happen in the open, driven by people who contribute simply because they care about the problem.
 
-It exists as a direct response to the concentration of AI research inside closed institutions. Everything produced here: ideas, experiments, progress, and failures, is shared openly to encourage collaboration across robotics, machine learning, simulation, control systems, and applied research.
+Current generative AI achieves remarkable things. But there are gaps that matter for where AI needs to go next: grounding knowledge in reality, reasoning about causes and consequences, and developing the capacity to act, plan, and collaborate in the physical world.
 
 ---
 
 ## Research Pillars
 
 **World Models**
-Enabling AI to build and navigate internal representations of reality, supporting imagination, planning, and action beyond direct observation.
+Enabling AI to build and navigate internal representations of reality, so it can imagine, plan, and act beyond what it has directly observed.
 
 **Causal Learning**
-Moving beyond correlation to understand why things happen, through exploration and active interaction with the world.
+Moving beyond correlation toward systems that understand why things happen, through exploration and interaction with the world.
 
 **Multi-Agent AI**
-Developing the foundations for AI systems that communicate, coordinate, and reason collectively.
+Developing the foundations for AI systems that communicate, coordinate, and reason collectively rather than operating in isolation.
 
 ---
 
 ## Projects
 
 New open-source projects are on their way. First releases will be published soon.
-Follow our progress at [dartsinitiative.com](https://dartsinitiative.com).
+Follow progress at [dartsinitiative.com](https://dartsinitiative.com).
 
 ---
 
